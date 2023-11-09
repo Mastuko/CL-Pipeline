@@ -5,5 +5,7 @@ Four strategies are compared:
 * Retrain when OOD detected
 * Retrain with a fix size buffer
 * Retrain with deep generative model
+
 To be added:
+
 Multi-staged pipeline design.
